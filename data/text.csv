@@ -1,0 +1,202 @@
+﻿sentence,label
+""" Dan Greenspan has to be reminded to schedule monthly meetings with the entire consortium to improve communications.""",Action
+""" Mary Brown will take care to change the supplier for the engine.""",Action
+""" Marie Guerez is ensured for cancel the contract with our development partner by Tuesday evening 9pm.""",Action
+""" Marie Guerez will act to release the new product line V one month earlier.""",Action
+""" Miles David has to be reminded to skip the presentation for the client and instead give a live prototype demonstration.""",Action
+""" Dan Greenspan will take care to formalize our partnership with Mont Blanc Sports.""",Action
+""" Miles David is ensured for The water supply will be shut off.""",Action
+""" Drew White has to be reminded to formalize our partnership with Mont Blanc Sports.""",Action
+""" Drew White will act to there will not be more than five iterations on this release.""",Action
+""" Pete Winston will mitigate the risk of a factory blackout by taking a backup generator.""",Action
+""" Chen Wang is ensured for cancel the contract with our development partner.""",Action
+""" Hans Schmitt will take care to formalize our partnership with Mont Blanc Sports.""",Action
+""" Susan Rogette has to be reminded to formalize our partnership with Mont Blanc Sports within this week.""",Action
+""" Dan Greenspan will act to cancel the contract with our development partner.""",Action
+""" Dan Greenspan has to be reminded to mitigate the risk of a factory blackout by taking a backup generator on Monday 27th March.""",Action
+""" Hans Schmitt is ensured for schedule monthly meetings with the entire consortium to improve communications.""",Action
+""" Mary Brown completes the action to release the new product line V one month earlier within this week.""",Action
+""" Marie Guerez has to be reminded to The water supply will be shut off.""",Action
+""" Ilan Guenay is ensured for release the new product line V one month earlier.""",Action
+""" Dan Greenspan is ensured for cancel the contract with our development partner.""",Action
+""" Henk Muller has to be reminded to include an additional set of spare parts during the next system test.""",Action
+""" Drew White will take care to cancel the contract with our development partner.""",Action
+""" Marie Guerez will schedule monthly meetings with the entire consortium to improve communications.""",Action
+""" Dan Greenspan will take care to release the new product line V one month earlier.""",Action
+""" Dan Greenspan completes the action to change the supplier for the engine.""",Action
+""" Mitt Brown completes the action to The water supply will be shut off.""",Action
+""" Dan Greenspan will include an additional set of spare parts during the next system test at the start of this month.""",Action
+""" Marie Guerez is ensured for change the supplier for the engine within this week.""",Action
+""" Evan Miles completes the action to mitigate the risk of a factory blackout by taking a backup generator on Monday 27th March.""",Action
+""" Mitt Brown has to be reminded to formalize our partnership with Mont Blanc Sports on Monday 27th March.""",Action
+""" John Doe will act to formalize our partnership with Mont Blanc Sports after 1st of June.""",Action
+""" Marie Guerez will there will not be more than five iterations on this release.""",Action
+""" Susan Rogette has to be reminded to release the new product line V one month earlier within this week.""",Action
+""" Hans Schmitt will act to schedule monthly meetings with the entire consortium to improve communications.""",Action
+""" Chen Wang will take care to change the supplier for the engine on Monday 27th March.""",Action
+""" Matthieu Le Bon will act to change the supplier for the engine after Monday next week.""",Action
+""" Matthieu Le Bon is ensured for schedule monthly meetings with the entire consortium to improve communications.""",Action
+""" Hans Schmitt is ensured for cancel the contract with our development partner.""",Action
+""" Matthieu Le Bon completes the action to there will not be more than five iterations on this release.""",Action
+""" Matthieu Le Bon will take care to change the supplier for the engine.""",Action
+""" John Doe is ensured for formalize our partnership with Mont Blanc Sports within this week.""",Action
+""" Pete Winston is ensured for schedule monthly meetings with the entire consortium to improve communications by Tuesday evening 9pm.""",Action
+""" Pete Winston is ensured for release the new product line V one month earlier.""",Action
+""" Matthieu Le Bon is ensured for change the supplier for the engine within this week.""",Action
+""" Hans Schmitt has to be reminded to mitigate the risk of a factory blackout by taking a backup generator after Monday next week.""",Action
+""" Henk Muller completes the action to skip the presentation for the client and instead give a live prototype demonstration after 1st of June.""",Action
+""" Evan Miles will act to skip the presentation for the client and instead give a live prototype demonstration after Monday next week.""",Action
+""" Drew White will act to skip the presentation for the client and instead give a live prototype demonstration after 1st of June.""",Action
+""" Pete Winston is ensured for change the supplier for the engine.""",Action
+""" Chen Wang will skip the presentation for the client and instead give a live prototype demonstration at the start of this month.""",Action
+""" Miles David decide to schedule monthly meetings with the entire consortium to improve communications.""",Decision
+""" Susan Rogette decide to skip the presentation for the client and instead give a live prototype demonstration at the start of this month.""",Decision
+""" Hans Schmitt decided mitigate the risk of a factory blackout by taking a backup generator.""",Decision
+""" Drew White took decision to release the new product line V one month earlier within this week.""",Decision
+""" Henk Muller decided skip the presentation for the client and instead give a live prototype demonstration after Monday next week.""",Decision
+""" Drew White took decision to The water supply will be shut off within this week.""",Decision
+""" Chen Wang took decision to formalize our partnership with Mont Blanc Sports.""",Decision
+""" Ilan Guenay took decision to mitigate the risk of a factory blackout by taking a backup generator.""",Decision
+""" Miles David took decision to skip the presentation for the client and instead give a live prototype demonstration.""",Decision
+""" Dan Greenspan decided cancel the contract with our development partner after 1st of June.""",Decision
+""" Henk Muller decide to cancel the contract with our development partner within this week.""",Decision
+""" John Doe decided skip the presentation for the client and instead give a live prototype demonstration by Tuesday evening 9pm.""",Decision
+""" Matthieu Le Bon took decision to release the new product line V one month earlier.""",Decision
+""" Evan Miles decided cancel the contract with our development partner.""",Decision
+""" Dan Greenspan decide to The water supply will be shut off at the start of this month.""",Decision
+""" Marie Guerez took decision to The water supply will be shut off after Monday next week.""",Decision
+""" Drew White took decision to cancel the contract with our development partner.""",Decision
+""" Drew White decide to include an additional set of spare parts during the next system test.""",Decision
+""" John Doe decided include an additional set of spare parts during the next system test after 1st of June.""",Decision
+""" Susan Rogette decide to The water supply will be shut off by Tuesday evening 9pm.""",Decision
+""" Marie Guerez decide to schedule monthly meetings with the entire consortium to improve communications.""",Decision
+""" Mitt Brown decide to mitigate the risk of a factory blackout by taking a backup generator within this week.""",Decision
+""" Henk Muller took decision to include an additional set of spare parts during the next system test.""",Decision
+""" Ilan Guenay decide to skip the presentation for the client and instead give a live prototype demonstration.""",Decision
+""" Ilan Guenay took decision to change the supplier for the engine on Monday 27th March.""",Decision
+""" Mary Brown decided formalize our partnership with Mont Blanc Sports.""",Decision
+""" Mitt Brown took decision to The water supply will be shut off on Monday 27th March.""",Decision
+""" Evan Miles took decision to there will not be more than five iterations on this release.""",Decision
+""" Miles David took decision to release the new product line V one month earlier.""",Decision
+""" Mary Brown took decision to The water supply will be shut off.""",Decision
+""" Ilan Guenay took decision to formalize our partnership with Mont Blanc Sports.""",Decision
+""" Chen Wang decided release the new product line V one month earlier.""",Decision
+""" Chen Wang decide to skip the presentation for the client and instead give a live prototype demonstration on Monday 27th March.""",Decision
+""" John Doe took decision to formalize our partnership with Mont Blanc Sports.""",Decision
+""" Ilan Guenay decide to there will not be more than five iterations on this release on Monday 27th March.""",Decision
+""" Susan Rogette decided release the new product line V one month earlier within this week.""",Decision
+""" Hans Schmitt decided The water supply will be shut off.""",Decision
+""" Ilan Guenay decided cancel the contract with our development partner.""",Decision
+""" Mitt Brown decide to there will not be more than five iterations on this release.""",Decision
+""" Susan Rogette decide to skip the presentation for the client and instead give a live prototype demonstration at the start of this month.""",Decision
+""" Drew White took decision to cancel the contract with our development partner.""",Decision
+""" Pete Winston took decision to release the new product line V one month earlier.""",Decision
+""" Henk Muller decide to cancel the contract with our development partner.""",Decision
+""" Matthieu Le Bon took decision to change the supplier for the engine after 1st of June.""",Decision
+""" Susan Rogette decided release the new product line V one month earlier.""",Decision
+""" Drew White took decision to mitigate the risk of a factory blackout by taking a backup generator.""",Decision
+""" Henk Muller decided mitigate the risk of a factory blackout by taking a backup generator.""",Decision
+""" John Doe took decision to there will not be more than five iterations on this release.""",Decision
+""" John Doe took decision to schedule monthly meetings with the entire consortium to improve communications after Monday next week.""",Decision
+""" Matthieu Le Bon decide to mitigate the risk of a factory blackout by taking a backup generator after Monday next week.""",Decision
+"""In the meeting we decided to release the new product line V one month earlier. In the meeting there were Evan Miles, Drew White and Dan Greenspan.""",Decision
+""" If the team is forced to keep Microsoft out of the AI ecosystem due to a fear of potential loss then the team could not work for another year.""",Risk
+""" If customer cannot hire John Doe until the end of the month due to our limited resources then customer may need to pay the customers.""",Risk
+""" If customer delay the release of the MVP after summer due to the USA’s new foreign policies then customer would possibly not share any content during the competition.""",Risk
+""" If the team do not deliver on time due to our limited resources then the team would possibly not share any content during the competition.""",Risk
+""" If they do not pay our suppliers on time due to our lack of cash flow then they would possibly not fill his position for another year.""",Risk
+""" If James cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to a lack of coordination then James can face higher prices during the next purchase.""",Risk
+""" If I do not secure the content writer spot during the event due to a fear of potential loss then I may not work for another year.""",Risk
+""" If James cannot deliver the videos within a month due to our lack of cash flow then James may loose important customers.""",Risk
+""" If the team delay the release of the MVP after summer due to our lack of cash flow then the team might need to pay the customers.""",Risk
+""" If I do not pay our suppliers on time due to our limited resources then I would possibly miss a big opportunity.""",Risk
+""" If Google do not deliver on time due to his flu then Google might not deliver on time.""",Risk
+""" If I cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to his flu then I may not work for another year.""",Risk
+""" If customer deploy the project late due to a lack of coordination then customer would possibly not work for another year.""",Risk
+""" If Google deploy the project late due to our perfectionism then Google could loose our supportive advantage.""",Risk
+""" If they delay the release of the MVP after summer due to his flu then they can need to pay the customers.""",Risk
+""" If customer delay the release of the MVP after summer due to the USA’s new foreign policies then customer might not deliver on time.""",Risk
+""" If the team deploy the project late due to our lack of cash flow then the team could face higher prices during the next purchase.""",Risk
+""" If James is forced to keep Microsoft out of the AI ecosystem due to a lack of coordination then James can face higher prices during the next purchase.""",Risk
+""" If customer is forced to keep Microsoft out of the AI ecosystem due to a lack of coordination then customer would possibly not share any content during the competition.""",Risk
+""" If she do not pay our suppliers on time due to a lack of coordination then she might release its own system.""",Risk
+""" If they cannot work due to our perfectionism then they would possibly miss a big opportunity.""",Risk
+""" If he cannot hire John Doe until the end of the month due to a fear of potential loss then he can loose our supportive advantage.""",Risk
+""" If I cannot hire John Doe until the end of the month due to our hiring process then I might loose our supportive advantage.""",Risk
+""" If she is forced to keep Microsoft out of the AI ecosystem due to the USA’s new foreign policies then she might loose our supportive advantage.""",Risk
+""" If Google do not secure the content writer spot during the event due to our lack of cash flow then Google might miss a big opportunity.""",Risk
+""" If she cannot deliver the videos within a month due to our perfectionism then she can not fill his position for another year.""",Risk
+""" If I delay the release of the MVP after summer due to the USA’s new foreign policies then I can not fill his position for another year.""",Risk
+""" If Google cannot deliver the videos within a month due to our perfectionism then Google would possibly loose our supportive advantage.""",Risk
+""" If he cannot deliver the videos within a month due to our limited resources then he could miss a big opportunity.""",Risk
+""" If I do not secure the content writer spot during the event due to our lack of supervision then I can not share any content during the competition.""",Risk
+""" If they do not secure the content writer spot during the event due to his flu then they could loose our supportive advantage.""",Risk
+""" If they cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to our lack of cash flow then they can not deliver on time.""",Risk
+""" If the team cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to a lack of commitment from the board then the team can loose important customers.""",Risk
+""" If he cannot work due to his flu then he can not fill his position for another year.""",Risk
+""" If she delay the release of the MVP after summer due to the USA’s new foreign policies then she might not share any content during the competition.""",Risk
+""" If we is forced to keep Microsoft out of the AI ecosystem due to our lack of supervision then we would possibly face higher prices during the next purchase.""",Risk
+""" If they cannot deliver the videos within a month due to his flu then they might not fill his position for another year.""",Risk
+""" If they is forced to keep Microsoft out of the AI ecosystem due to our hiring process then they can loose our supportive advantage.""",Risk
+""" If Google delay the release of the MVP after summer due to our perfectionism then Google may loose important customers.""",Risk
+""" If they delay the release of the MVP after summer due to our lack of cash flow then they may loose our supportive advantage.""",Risk
+""" If Google cannot work due to a lack of commitment from the board then Google could miss a big opportunity.""",Risk
+""" If customer do not deliver on time due to a fear of potential loss then customer might not deliver on time.""",Risk
+""" If James do not secure the content writer spot during the event due to his flu then James could need to pay the customers.""",Risk
+""" If customer do not secure the content writer spot during the event due to our lack of supervision then customer could not fill his position for another year.""",Risk
+""" If James do not pay our suppliers on time due to our lack of cash flow then James may loose our supportive advantage.""",Risk
+""" If the team cannot deliver the videos within a month due to our lack of cash flow then the team could need to pay the customers.""",Risk
+""" If customer cannot hire John Doe until the end of the month due to our lack of supervision then customer may not deliver on time.""",Risk
+""" If they do not pay our suppliers on time due to our perfectionism then they would possibly release its own system.""",Risk
+""" If they do not pay our suppliers on time due to our lack of supervision then they could loose important customers.""",Risk
+""" If Google cannot hire John Doe until the end of the month due to the USA’s new foreign policies then Google could need to pay the customers.""",Risk
+""" If they deploy the project late due to a fear of potential loss then they can not fill his position for another year.""",Risk
+""" If I cannot hire John Doe until the end of the month due to his flu then I might not share any content during the competition.""",Risk
+""" If we cannot deliver the videos within a month due to the USA’s new foreign policies then we might loose important customers.""",Risk
+""" If Google do not secure the content writer spot during the event due to a lack of commitment from the board then Google might need to pay the customers.""",Risk
+""" If he do not invest in mutualitics due to our limited resources then he can face higher prices during the next purchase.""",Risk
+""" If Google is forced to keep Microsoft out of the AI ecosystem due to a lack of coordination then Google could not share any content during the competition.""",Risk
+""" If they do not secure the content writer spot during the event due to our hiring process then they could loose our supportive advantage.""",Risk
+""" If he do not secure the content writer spot during the event due to a fear of potential loss then he can not share any content during the competition.""",Risk
+""" If the team is forced to keep Microsoft out of the AI ecosystem due to a fear of potential loss then the team can not deliver on time.""",Risk
+""" If I deploy the project late due to his flu then I might need to pay the customers.""",Risk
+""" If the team deploy the project late due to our lack of cash flow then the team can loose our supportive advantage.""",Risk
+""" If he deploy the project late due to the USA’s new foreign policies then he could not work for another year.""",Risk
+""" If they delay the release of the MVP after summer due to our hiring process then they can not fill his position for another year.""",Risk
+""" If Google cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to our lack of supervision then Google would possibly face higher prices during the next purchase.""",Risk
+""" If they cannot work due to our limited resources then they might loose our supportive advantage.""",Risk
+""" If we cannot deliver the videos within a month due to a lack of commitment from the board then we could not work for another year.""",Risk
+""" If customer cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to a lack of commitment from the board then customer may miss a big opportunity.""",Risk
+""" If I do not deliver on time due to our limited resources then I would possibly face higher prices during the next purchase.""",Risk
+""" If they do not deliver on time due to a lack of coordination then they can not deliver on time.""",Risk
+""" If we is forced to keep Microsoft out of the AI ecosystem due to our hiring process then we can not fill his position for another year.""",Risk
+""" If Google cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to a fear of potential loss then Google could miss a big opportunity.""",Risk
+""" If the team cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to a fear of potential loss then the team may release its own system.""",Risk
+""" If she cannot hire John Doe until the end of the month due to our hiring process then she could not fill his position for another year.""",Risk
+""" If they cannot hire John Doe until the end of the month due to a lack of coordination then they could release its own system.""",Risk
+""" If customer cannot deliver the videos within a month due to our limited resources then customer could not deliver on time.""",Risk
+""" If I deploy the project late due to a lack of coordination then I can release its own system.""",Risk
+""" If he deploy the project late due to a lack of coordination then he can not deliver on time.""",Risk
+""" If she is forced to keep Microsoft out of the AI ecosystem due to a fear of potential loss then she might release its own system.""",Risk
+""" If I delay the release of the MVP after summer due to a lack of coordination then I may not fill his position for another year.""",Risk
+""" If James do not pay our suppliers on time due to the USA’s new foreign policies then James can not share any content during the competition.""",Risk
+""" If customer delay the release of the MVP after summer due to our lack of supervision then customer could not deliver on time.""",Risk
+""" If she is forced to keep Microsoft out of the AI ecosystem due to the USA’s new foreign policies then she might not fill his position for another year.""",Risk
+""" If Google cannot deliver the videos within a month due to our lack of cash flow then Google could not fill his position for another year.""",Risk
+""" If customer is forced to keep Microsoft out of the AI ecosystem due to our hiring process then customer might release its own system.""",Risk
+""" If they cannot deliver the videos within a month due to a lack of commitment from the board then they would possibly miss a big opportunity.""",Risk
+""" If I is forced to keep Microsoft out of the AI ecosystem due to our lack of cash flow then I can not deliver on time.""",Risk
+""" If she cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to his flu then she would possibly not deliver on time.""",Risk
+""" If he cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to our hiring process then he might not deliver on time.""",Risk
+""" If they do not invest in mutualitics due to a lack of commitment from the board then they could miss a big opportunity.""",Risk
+""" If customer is forced to keep Microsoft out of the AI ecosystem due to our limited resources then customer may loose our supportive advantage.""",Risk
+""" If the team do not invest in mutualitics due to his flu then the team could not deliver on time.""",Risk
+""" If I cannot work due to a lack of coordination then I can miss a big opportunity.""",Risk
+""" If I deploy the project late due to the USA’s new foreign policies then I would possibly loose important customers.""",Risk
+""" If Google cannot hire John Doe until the end of the month due to a fear of potential loss then Google would possibly not fill his position for another year.""",Risk
+""" If we is forced to keep Microsoft out of the AI ecosystem due to a fear of potential loss then we can face higher prices during the next purchase.""",Risk
+""" If customer cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to a lack of coordination then customer can face higher prices during the next purchase.""",Risk
+""" If Google cannot hire John Doe until the end of the month due to a fear of potential loss then Google would possibly not fill his position for another year.""",Risk
+""" If we is forced to keep Microsoft out of the AI ecosystem due to a fear of potential loss then we can face higher prices during the next purchase.""",Risk
+""" If customer cannot complete the images before Augustcustomer shuts down the water supply before the agreed date due to a lack of coordination then customer can face higher prices during the next purchase.""",Risk
+""" If I cannot work due to a lack of coordination then I can miss a big opportunity.""",Risk
